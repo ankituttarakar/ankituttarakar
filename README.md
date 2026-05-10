@@ -1,5 +1,9 @@
 ## 💫 About Me:
-- 🌱 Currently learning and building with modern web technologies<br>- 🔭 Interested in Full Stack Development & AI-powered applications<br>- ⚡ Love turning ideas into scalable digital experiences<br>- 🎯 Focused on clean code, performance, and user experience<br>- 🤝 Open to collaborations and exciting tech opportunities<br>
+- 🌱 Currently learning and building with modern web technologies<br>
+- 🔭 Interested in Full Stack Development & AI-powered applications<br>
+- ⚡ Love turning ideas into scalable digital experiences<br>
+- 🎯 Focused on clean code, performance, and user experience<br>
+- 🤝 Open to collaborations and exciting tech opportunities<br>
 
 
 ## 🌐 Socials:
@@ -16,7 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankituttarakar&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
