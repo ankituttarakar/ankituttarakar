@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 - 🌱 Currently learning and building with modern web technologies<br>- 🔭 Interested in Full Stack Development & AI-powered applications<br>- ⚡ Love turning ideas into scalable digital experiences<br>- 🎯 Focused on clean code, performance, and user experience<br>- 🤝 Open to collaborations and exciting tech opportunities<br>
 
 
